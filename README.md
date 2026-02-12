@@ -1,5 +1,5 @@
 # NOTICE
-
+Ветка 2.1
 This project is no longer actively maintained, it should still work for the foreseeable future
 
 ---
